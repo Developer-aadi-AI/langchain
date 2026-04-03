@@ -1,15 +1,23 @@
-from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_ollama import ChatOllama
 from dotenv import load_dotenv
 
-load_dotenv()
-model = ChatGoogleGenerativeAI(model = "gemini-2.5-flash", temperature = 0.7)
+
+base_url = "http://localhost:11434"
+model = "llama3.2"
+
+llm = ChatOllama(
+    base_url = base_url,
+    model = model,
+    temperature = 0.8,
+    num_predict = 256
+)
 
 while True:
     prompt  = input("User : ")
     if prompt.lower() =='exit':
         break
     else:
-        result = model.invoke(prompt)
+        result = llm.invoke(prompt)
         print("AI : ", result.content)
         
 
