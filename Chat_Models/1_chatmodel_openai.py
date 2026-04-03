@@ -10,6 +10,8 @@ model = ChatOpenAI(model = "gpt-4") ## 1. You can also provide temperature param
 # Creative writing, Storytelling, Jokes                0.9 to 1.2
 # Maximum Randomness (wild ideas, Brainstorming)       1.5+
 
+## NOTE:- if lower temperature then the output may be same/similar, it's not necessary to be random, but higher temperature value always results in different output from before  
+
 ## 2. And max_completion_token parameter for How many tokens long your output should be.
 
 result = model.invoke("What is the Capital of India?")
