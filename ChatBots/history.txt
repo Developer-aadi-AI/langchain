@@ -16,4 +16,48 @@ AI : Apologies for the inconvenience with order #53448. Please initiate a return
 
 User : I returned my order 53448. When will I get my refund?
 
+AI : Your refund for order #53448 has been successfully initiated. It should reflect in your original payment method within 5–7 business days. If you don’t see it by then, feel free to contact us again.HumanMessage(content="Where is my order 53448? I placed it a few days ago.")
+AIMessage(content="Your order #53448 is currently in transit and is expected to be delivered within 2–3 business days. You’ll receive a notification once it is out for delivery. Let me know if you need the tracking details.")
+
+User : My order 53448 is delayed. It was supposed to arrive yesterday.
+
+AI : I’m sorry for the delay with your order #53448. It appears there was a logistics delay due to high demand. The updated delivery date is within the next 24–48 hours. We appreciate your patience, and I can escalate this if you'd like.
+
+User : I returned my order 53448. When will I get my refund?
+
 AI : Your refund for order #53448 has been successfully initiated. It should reflect in your original payment method within 5–7 business days. If you don’t see it by then, feel free to contact us again.
+
+User : I received the wrong product for order 53448. What should I do?
+
+AI : Apologies for the inconvenience with order #53448. Please initiate a return or replacement request from your orders section. Once submitted, we’ll arrange a pickup and send the correct item as soon as possible.
+
+
+User : I returned my order 53448. When will I get my refund?
+
+AI : Your refund for order #53448 has been successfully initiated. It should reflect in your original payment method within 5–7 business days. If you don’t see it by then, feel free to contact us again.
+User : summarize the chat till now
+AI : Here's a summary of the chat:
+
+A customer contacted us about their order #53448, which was placed a few days ago. We initially informed them that the order was in transit and expected to be delivered within 2-3 business days. However, when they checked and didn't receive it, we apologized for the delay due to logistics issues and provided an updated delivery date of within 24-48 hours.
+
+The customer then contacted us again because they had returned their order (initially stated as "My order was delayed") and wanted to know about their refund. We informed them that their refund had been initiated and should be reflected in their original payment method within 5-7 business days.
+
+Finally, the customer mentioned that they received the wrong product for order #53448 and asked what steps to take. We advised them to initiate a return or replacement request from their orders section, which we would arrange a pickup and send the correct item as soon as possible.
+User : what is the status of order 53448
+AI : The current status of Order #53448 is:
+
+* Initially, it was reported that the order was in transit and expected to be delivered within 2-3 business days.
+* Due to logistics issues, the delivery date was updated to within 24-48 hours after a few checks by the customer.
+* The customer then informed us that they had returned their order, and we confirmed that the refund had been initiated, with an expected processing time of 5-7 business days.
+
+However, since the customer mentioned receiving the wrong product, we advised them to initiate a return or replacement request from their orders section.
+User : where is my refund for order number 53448
+AI : As per our previous conversation, here's the updated information on your refund for Order #53448:
+
+* We confirmed that your refund had been successfully initiated.
+* The expected processing time for the refund to be reflected in your original payment method is within 5-7 business days.
+* If you don't see the refund by then, please feel free to contact us again.
+
+If you need any further assistance or have any questions about your refund, I'm here to help.
+User : what was my order number
+AI : Your order number was #53448.
