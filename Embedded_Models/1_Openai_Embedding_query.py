@@ -12,3 +12,12 @@ print(str(result))
 
 
 ## This is used when you make RAG-Based applications
+
+
+### Note: there are some more methods of encoding then vector encoding, some are:
+#1 wordtovec
+#2 Bert
+#3 GloVe
+#4 TF-IDF
+#5 One-Hot encoding
+#6 
